@@ -2,6 +2,7 @@
 
 pcaSVD.m performs a principal component analysis on a given a dataset.
 The outputs are scores, PC, and Var. It is called as follows:
+
 	[scores,PC,Var] = pcaSVD(data)
 
 -data is an mxn matrix with m samples and n variables
